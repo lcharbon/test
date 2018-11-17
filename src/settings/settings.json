@@ -1,0 +1,5 @@
+{
+	"api_key": "dc6zaTOxFJmzC",
+	"api_base": "http://api.giphy.com/v1/gifs/",
+	"limit": 5
+}
